@@ -1,0 +1,39 @@
+body{
+    background-image: url(Halftone\ Texture\ Grunge\ Background\ Illustration\ Design\ Grungy\ Dots.jpeg);
+  }
+h1{
+    background-color: white;
+    text-align: center;
+    color: red;
+    margin-top: -10px -10px;
+}
+.publicacion{
+    background-color: white;
+    width: 500px;
+    height: 0 auto;
+    margin: 25px auto;
+    padding: 1px;
+}
+.titulo-foto{
+    display:flex;
+    color: red;
+}
+h2{
+    width: 400px;
+	margin: 15px;
+    color: red;
+}
+p{
+	margin-right: 8px;
+	margin-top: 20px;
+    font-size: 15px;
+    margin-left: 20px;
+    color: red;
+}
+.imagen{
+	width: 500px;
+    height: auto;
+    overflow: hidden;
+}
+img{
+    width: 500px;}
